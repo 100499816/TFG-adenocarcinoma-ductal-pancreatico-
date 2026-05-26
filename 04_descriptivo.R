@@ -388,11 +388,6 @@ tabla_qx %>%
 
 
 
-
-
-
-
-
 #ASIMETRÍA
 skewness(datos$ca_19_9_al_dx, na.rm = TRUE)
 skewness(datos$tamano_tumoral_al_dx_por_tc_diametro_mayor_en_cm, na.rm = TRUE)
